@@ -1,0 +1,3 @@
+git fetch origin
+git checkout -b imgbot origin/imgbot
+git merge main
